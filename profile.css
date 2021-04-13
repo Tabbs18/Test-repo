@@ -1,0 +1,25 @@
+.site-logo{
+    size: 150px;
+}
+
+
+a{
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+}
+
+li{
+    padding-left: 7%;
+}
+
+.container {
+    padding: 7%;
+}
