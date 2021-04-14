@@ -1,2 +1,2 @@
-# Test-repo
-Testing to make sure gitbash is working
+# Picnic-code
+Website to advertise the sale of arranged picnics
